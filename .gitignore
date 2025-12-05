@@ -1,0 +1,17 @@
+# macOS junk
+.DS_Store
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
