@@ -31,12 +31,19 @@ Azure SQL + Blob (optional integration)
 Custom marketing analytics engine
 
 📂 Project Structure
+
 ├── App.py                 # Main Streamlit app
+
 ├── dashboards.py          # Role-based dashboards
+
 ├── analytics_engine.py    # Core analytics logic
+
 ├── data_pipeline.py       # Data ingestion processing
+
 ├── assets/                # Images/icons
-├── pages/                 # Multi-page UI (if used)
+
+├── pages/                 # Multi-page UI 
+
 └── .gitignore
 
 ▶️ How to Run
