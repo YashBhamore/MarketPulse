@@ -60,7 +60,7 @@ Campaign ROI analytics
 
 Revenue dashboards
 
-Synthetic data generator (optional)
+Synthetic data generator 
 
 Authentication and role-based views
 
