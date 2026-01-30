@@ -46,7 +46,7 @@ Custom marketing analytics engine
 
 └── .gitignore
 
-▶️ How to Run
+▶️ How to run this repo
 
 Install required packages:
 
